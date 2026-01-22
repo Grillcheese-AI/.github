@@ -18,8 +18,11 @@ After years of using ChatGPT, Claude, and every other AI tool daily, I kept hitt
 
 → It lives in a browser tab, knows nothing about your life
 
+<br />
+And here's the thing nobody talks about: 
+<br />
+**people are lonely**. Not everyone has someone to text at 2am.
 
-And here's the thing nobody talks about: people are lonely. Not everyone has someone to text at 2am.
 
 So I built GrillCheese AI - an AI that:
 
