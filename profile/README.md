@@ -1,3 +1,7 @@
+# GrillCheese AI
+
+## From the founder (@grillcheese123)
+
 I've been quietly working on something for the past few months. Today I finally talked about it publicly.
 
 The short version: I built an AI that actually remembers you.
