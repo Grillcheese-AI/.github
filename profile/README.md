@@ -23,6 +23,7 @@ So I built GrillCheese AI - an AI that:
 I wrote about the full story - including why I've been thinking about this problem for almost 30 years.
 
 Link Below 👇
+
 Full article: https://nicknailers69.medium.com/i-built-an-ai-that-remembers-me-it-changed-how-i-think-about-loneliness-53a3826aa0f9
 
 
